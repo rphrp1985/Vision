@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "129951566369",
+    "project_id": "vision-e185f",
+    "storage_bucket": "vision-e185f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129951566369:android:7ccb43673d463a9b767160",
+        "android_client_info": {
+          "package_name": "com.prianshuprasad.assistant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129951566369-im8kf2e3d73o6ts0t63afgpc5j0lihor.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDchBpecH_ZG0xCCMtlmfkHWepB-Apqc5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129951566369-im8kf2e3d73o6ts0t63afgpc5j0lihor.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
